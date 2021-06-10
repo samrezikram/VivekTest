@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Libertad-Regular.otf">
+            <string>Libertad</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="NYTimesHeadlines" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="ElS-Oo-vik">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                            </tableView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="ElS-Oo-vik" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="2EJ-cV-kZT"/>
+                            <constraint firstItem="ElS-Oo-vik" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="Vyc-A4-2OT"/>
+                            <constraint firstItem="ElS-Oo-vik" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="bz2-Uq-8Cj"/>
+                            <constraint firstAttribute="bottom" secondItem="ElS-Oo-vik" secondAttribute="bottom" id="lkK-l2-SwA"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="NYTNewsTableView" destination="ElS-Oo-vik" id="x0k-nm-ILE"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-52" y="42"/>
+        </scene>
+        <!--Offline View Controller-->
+        <scene sceneID="EVz-Vg-52n">
+            <objects>
+                <viewController storyboardIdentifier="OfflineVC" id="q1b-CO-fIl" customClass="OfflineViewController" customModule="AutoFinder" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="FEu-2V-zTt"/>
+                        <viewControllerLayoutGuide type="bottom" id="AYr-2m-4RK"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="3PW-6J-SU4">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="AuX-zO-7ba">
+                                <rect key="frame" x="87" y="369.5" width="240" height="157"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="offline" translatesAutoresizingMaskIntoConstraints="NO" id="wWI-Gi-Eag">
+                                        <rect key="frame" x="45" y="0.0" width="150" height="145"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="150" id="7Dv-Ky-YRn"/>
+                                            <constraint firstAttribute="height" constant="145" id="MTq-ZK-Z38"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="You are offline, connect to the internet" textAlignment="center" lineBreakMode="clip" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="rpN-7w-r1G">
+                                        <rect key="frame" x="0.0" y="123" width="240" height="34"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="34" id="mxO-7L-ZOt"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="Libertad" family="Libertad" pointSize="17"/>
+                                        <color key="textColor" red="0.21568627450980393" green="0.78431372549019607" blue="0.61176470588235299" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="240" id="4yF-cF-d0h"/>
+                                    <constraint firstItem="rpN-7w-r1G" firstAttribute="leading" secondItem="AuX-zO-7ba" secondAttribute="leading" id="Bz8-Xa-ysq"/>
+                                    <constraint firstItem="rpN-7w-r1G" firstAttribute="centerX" secondItem="wWI-Gi-Eag" secondAttribute="centerX" id="C0h-Lg-gWW"/>
+                                    <constraint firstItem="wWI-Gi-Eag" firstAttribute="leading" secondItem="AuX-zO-7ba" secondAttribute="leading" constant="45" id="JDY-KY-Iwr"/>
+                                    <constraint firstAttribute="bottom" secondItem="rpN-7w-r1G" secondAttribute="bottom" id="KUD-ul-EUY"/>
+                                    <constraint firstItem="wWI-Gi-Eag" firstAttribute="top" secondItem="AuX-zO-7ba" secondAttribute="top" id="dze-6H-w5Z"/>
+                                    <constraint firstAttribute="height" constant="157" id="ioW-cY-amo"/>
+                                    <constraint firstAttribute="trailing" secondItem="wWI-Gi-Eag" secondAttribute="trailing" constant="45" id="moG-Yp-VAJ"/>
+                                    <constraint firstItem="wWI-Gi-Eag" firstAttribute="centerX" secondItem="AuX-zO-7ba" secondAttribute="centerX" id="tyJ-QA-aF6"/>
+                                </constraints>
+                            </view>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QKc-hR-LyT">
+                                <rect key="frame" x="343" y="60" width="35" height="35"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="35" id="Mzi-DR-bmq"/>
+                                    <constraint firstAttribute="width" constant="35" id="gwZ-qy-7tF"/>
+                                </constraints>
+                                <state key="normal" image="cross"/>
+                                <connections>
+                                    <action selector="showMainVC:" destination="q1b-CO-fIl" eventType="touchUpInside" id="XQb-ac-nDU"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Exy-0X-1QG"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="AuX-zO-7ba" firstAttribute="centerX" secondItem="3PW-6J-SU4" secondAttribute="centerX" id="12j-z7-FkB"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="QKc-hR-LyT" secondAttribute="trailing" constant="16" id="49N-nO-FeR"/>
+                            <constraint firstItem="AuX-zO-7ba" firstAttribute="centerY" secondItem="3PW-6J-SU4" secondAttribute="centerY" id="4Mx-S6-7eh"/>
+                            <constraint firstItem="QKc-hR-LyT" firstAttribute="top" secondItem="FEu-2V-zTt" secondAttribute="bottom" constant="16" id="aKS-Mf-rLc"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="1oY-lL-QsA" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-2575" y="-948"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="cross" width="256" height="256"/>
+        <image name="offline" width="75" height="72.5"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

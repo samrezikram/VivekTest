@@ -1,0 +1,15 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'NYTimesHeadlines' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for NYTimesHeadlines
+  
+  pod 'ProgressHUD'
+  
+  # optional pods if you wanna go with almaofire approch
+  pod 'Alamofire', '~> 5.2'
+  pod 'ReachabilitySwift'
+end

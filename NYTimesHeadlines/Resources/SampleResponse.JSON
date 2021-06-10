@@ -1,0 +1,1224 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+"num_results": 20,
+"results": [
+{
+"uri": "nyt://article/427e3c26-3e35-545a-9d51-56d8fafa2bf9",
+"url": "https://www.nytimes.com/2021/05/01/fashion/weddings/from-best-friends-to-platonic-spouses.html",
+"id": 100000007692569,
+"asset_id": 100000007692569,
+"source": "New York Times",
+"published_date": "2021-05-01",
+"updated": "2021-05-01 22:59:32",
+"section": "Fashion",
+"subsection": "Love",
+"nytdsection": "fashion",
+"adx_keywords": "Marriages;Friendship;Dating and Relationships;Homosexuality and Bisexuality",
+"column": null,
+"byline": "By Danielle Braff",
+"type": "Article",
+"title": "From Best Friends to Platonic Spouses",
+"abstract": "Some people are taking their friendships to the next level by saying “I do” to marriages without sex.",
+"des_facet": [
+"Marriages",
+"Friendship",
+"Dating and Relationships",
+"Homosexuality and Bisexuality"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "Jay Guercio, left, and Krystle Guercio, who have been friends since 2011, were married Nov. 14, 2020. The couple share a bed without any physical contact. ",
+"copyright": "Audrey Malone",
+"approved_for_syndication": 0,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/05/02/fashion/weddings/02Platonic/oakImage-1619545737801-thumbStandard.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/02/fashion/weddings/02Platonic/oakImage-1619545737801-mediumThreeByTwo210.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/02/fashion/weddings/02Platonic/oakImage-1619545737801-mediumThreeByTwo440.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/0c81aeb1-1fe8-5d45-8786-53dc6d087796",
+"url": "https://www.nytimes.com/2021/04/30/us/houston-smuggling.html",
+"id": 100000007739778,
+"asset_id": 100000007739778,
+"source": "New York Times",
+"published_date": "2021-04-30",
+"updated": "2021-04-30 19:24:55",
+"section": "U.S.",
+"subsection": "",
+"nytdsection": "u.s.",
+"adx_keywords": "Smuggling;Crime and Criminals;Police Department (Houston, Tex);Houston (Tex)",
+"column": null,
+"byline": "By Jesus Jiménez",
+"type": "Article",
+"title": "Police Find More Than 90 People Crammed Into a Houston Home",
+"abstract": "Houston police officers found more than 90 people — some showing symptoms of Covid-19 — “all huddled together” on Friday in what they believe may be a case of human smuggling.",
+"des_facet": [
+"Smuggling",
+"Crime and Criminals"
+],
+"org_facet": [
+"Police Department (Houston, Tex)"
+],
+"per_facet": [],
+"geo_facet": [
+"Houston (Tex)"
+],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "The discovery at the southwest Houston home on Friday began with a tip about a possible kidnapping.",
+"copyright": "Houston Police Department",
+"approved_for_syndication": 1,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/04/30/multimedia/30xp-houston/30xp-houston-thumbStandard.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/30/multimedia/30xp-houston/30xp-houston-mediumThreeByTwo210.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/30/multimedia/30xp-houston/30xp-houston-mediumThreeByTwo440.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/f4f1565b-88f0-5e22-b890-adcdc3fdc06b",
+"url": "https://www.nytimes.com/2021/04/29/arts/disaster-girl-meme-nft.html",
+"id": 100000007734465,
+"asset_id": 100000007734465,
+"source": "New York Times",
+"published_date": "2021-04-29",
+"updated": "2021-05-01 12:02:08",
+"section": "Arts",
+"subsection": "",
+"nytdsection": "arts",
+"adx_keywords": "Nonfungible Tokens (NFTs);Virtual Currency;Auctions;Content Type: Personal Profile;Computers and the Internet;Philanthropy;Social Media;Photography;Art;Roth, Zoe (2000- )",
+"column": null,
+"byline": "By Marie Fazio",
+"type": "Article",
+"title": "The World Knows Her as ‘Disaster Girl.’ She Just Made $500,000 Off the Meme.",
+"abstract": "Zoë Roth, now a college senior in North Carolina, plans to use the proceeds from this month’s NFT auction to pay off student loans and donate to charity.",
+"des_facet": [
+"Nonfungible Tokens (NFTs)",
+"Virtual Currency",
+"Auctions",
+"Content Type: Personal Profile",
+"Computers and the Internet",
+"Philanthropy",
+"Social Media",
+"Photography",
+"Art"
+],
+"org_facet": [],
+"per_facet": [
+"Roth, Zoe (2000- )"
+],
+"geo_facet": [],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "&ldquo;Disaster Girl&rdquo;",
+"copyright": "Dave Roth",
+"approved_for_syndication": 1,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/04/30/multimedia/30xp-meme/29xp-meme-thumbStandard-v5.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/30/multimedia/30xp-meme/29xp-meme-mediumThreeByTwo210-v5.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/30/multimedia/30xp-meme/29xp-meme-mediumThreeByTwo440-v5.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/20726c4f-c93e-5c01-802c-1552f57f8c6d",
+"url": "https://www.nytimes.com/2021/04/30/opinion/india-covid-crematorium.html",
+"id": 100000007738113,
+"asset_id": 100000007738113,
+"source": "New York Times",
+"published_date": "2021-04-30",
+"updated": "2021-05-01 13:36:56",
+"section": "Opinion",
+"subsection": "",
+"nytdsection": "opinion",
+"adx_keywords": "Funerals and Memorials;Coronavirus (2019-nCoV);Cremation;Death and Dying;Deaths (Fatalities);Disease Rates;Delhi (India);India;New Delhi (India)",
+"column": null,
+"byline": "By Aman Sethi",
+"type": "Article",
+"title": "‘Death Is the Only Truth.’ Watching India’s Funeral Pyres Burn.",
+"abstract": "Graphic images of mass cremations cut through the Indian government’s wall of noise, misinformation and propaganda about its handling of the Covid-19 crisis.",
+"des_facet": [
+"Funerals and Memorials",
+"Coronavirus (2019-nCoV)",
+"Cremation",
+"Death and Dying",
+"Deaths (Fatalities)",
+"Disease Rates"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [
+"Delhi (India)",
+"India",
+"New Delhi (India)"
+],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "Mourners and staff members of the Ghazipur crematory, in New Delhi, performing rituals in a parking area on Wednesday.",
+"copyright": "Ishan Tankha",
+"approved_for_syndication": 0,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/05/03/opinion/03sethi3/30sethi3-thumbStandard-v2.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/03/opinion/03sethi3/30sethi3-mediumThreeByTwo210-v2.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/03/opinion/03sethi3/30sethi3-mediumThreeByTwo440-v2.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/43f5e547-5e90-54f6-866f-0dda9062a0ee",
+"url": "https://www.nytimes.com/2021/04/29/style/cheugy.html",
+"id": 100000007735714,
+"asset_id": 100000007735714,
+"source": "New York Times",
+"published_date": "2021-04-29",
+"updated": "2021-05-01 09:45:30",
+"section": "Style",
+"subsection": "",
+"nytdsection": "style",
+"adx_keywords": "Social Media;Slang;Millennial Generation;Language and Languages",
+"column": null,
+"byline": "By Taylor Lorenz",
+"type": "Article",
+"title": "What Is ‘Cheugy’? You Know It When You See It.",
+"abstract": "Out of touch? Basic? A new term to describe a certain aesthetic is gaining popularity on TikTok.",
+"des_facet": [
+"Social Media",
+"Slang",
+"Millennial Generation",
+"Language and Languages"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "@CheugLife",
+"approved_for_syndication": 0,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/05/02/fashion/20CHEUGY-1/20CHEUGY-1-thumbStandard.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/02/fashion/20CHEUGY-1/20CHEUGY-1-mediumThreeByTwo210.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/02/fashion/20CHEUGY-1/20CHEUGY-1-mediumThreeByTwo440.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://interactive/cba553d7-2ebc-597f-bd74-de3f617296e0",
+"url": "https://www.nytimes.com/interactive/2014/upshot/dialect-quiz-map.html",
+"id": 100000002615736,
+"asset_id": 100000002615736,
+"source": "New York Times",
+"published_date": "2013-12-21",
+"updated": "2020-11-03 18:17:18",
+"section": "The Upshot",
+"subsection": "",
+"nytdsection": "the upshot",
+"adx_keywords": "Language and Languages;English Language",
+"column": null,
+"byline": "By Josh Katz and Wilson Andrews",
+"type": "Interactive",
+"title": "How Y’all, Youse and You Guys Talk",
+"abstract": "What does the way you speak say about where you’re from? Answer all the questions below to see your personal dialect map.",
+"des_facet": [
+"Language and Languages",
+"English Language"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [],
+"media": [
+{
+"type": "image",
+"subtype": "",
+"caption": "",
+"copyright": "",
+"approved_for_syndication": 0,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2016/11/24/us/map-dialect/map-dialect-thumbStandard-v2.png",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2016/11/24/us/map-dialect/map-dialect-mediumThreeByTwo210-v2.png",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2016/11/24/us/map-dialect/map-dialect-mediumThreeByTwo440-v2.png",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/b9a3a1eb-05d5-5452-8062-811f3f74b4ec",
+"url": "https://www.nytimes.com/2021/04/29/style/rachel-hollis-tiktok-video.html",
+"id": 100000007699332,
+"asset_id": 100000007699332,
+"source": "New York Times",
+"published_date": "2021-04-29",
+"updated": "2021-04-30 09:33:56",
+"section": "Style",
+"subsection": "",
+"nytdsection": "style",
+"adx_keywords": "Social Media;Content Type: Personal Profile;Race and Ethnicity;Hollis, Rachel (1983- );Hollis Co",
+"column": null,
+"byline": "By Katherine Rosman",
+"type": "Article",
+"title": "Girl, Wash Your Timeline",
+"abstract": "Rachel Hollis, the best-selling author and motivational speaker, built a blockbuster business sharing her “authentic” self. Then things got a little too real.",
+"des_facet": [
+"Social Media",
+"Content Type: Personal Profile",
+"Race and Ethnicity"
+],
+"org_facet": [
+"Hollis Co"
+],
+"per_facet": [
+"Hollis, Rachel (1983- )"
+],
+"geo_facet": [],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "Rachel Hollis at a New York City press appearance for her book &ldquo;Girl, Stop Apologizing&rdquo; in 2019.",
+"copyright": "Nicholas Hunt/Getty Images",
+"approved_for_syndication": 1,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/04/29/fashion/28RACHELHOLLIS-1/28RACHELHOLLIS-1-thumbStandard.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/29/fashion/28RACHELHOLLIS-1/28RACHELHOLLIS-1-mediumThreeByTwo210-v5.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/29/fashion/28RACHELHOLLIS-1/28RACHELHOLLIS-1-mediumThreeByTwo440-v5.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/7806cc91-4a42-54a1-aed6-0be0b0c77163",
+"url": "https://www.nytimes.com/2021/04/30/realestate/bentonville-arkansas-moving-incentive.html",
+"id": 100000007637490,
+"asset_id": 100000007637490,
+"source": "New York Times",
+"published_date": "2021-04-30",
+"updated": "2021-04-30 22:08:27",
+"section": "Real Estate",
+"subsection": "",
+"nytdsection": "real estate",
+"adx_keywords": "Real Estate and Housing (Residential);Economic Conditions and Trends;Telecommuting;Fayetteville (Ark);Tulsa (Okla);Savannah (Ga);Hawaii",
+"column": null,
+"byline": "By Alyson Krueger",
+"type": "Article",
+"title": "Want to Move to Our Town? Here’s $10,000 and a Free Bike.",
+"abstract": "With offers of cash, housing and a budding talent pool, smaller cities and states hope to get in on the ground floor of a new era for remote workers.",
+"des_facet": [
+"Real Estate and Housing (Residential)",
+"Economic Conditions and Trends",
+"Telecommuting"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [
+"Fayetteville (Ark)",
+"Tulsa (Okla)",
+"Savannah (Ga)",
+"Hawaii"
+],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "Bentonville, Ark., city of roughly 55,000 in Northwest Arkansas, is best known as the home of Walmart&rsquo;s global headquarters. Now it&rsquo;s expanding its reach under the banner of the Life Works Here initiative, which awards selected remote workers $10,000 and a free bicycle for moving to the area.",
+"copyright": "Beth Hall for The New York Times",
+"approved_for_syndication": 1,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/05/02/realestate/30incentives8/merlin_104933242_cb1449ca-8aed-4bbf-90a0-272061ee1579-thumbStandard.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/02/realestate/30incentives8/merlin_104933242_cb1449ca-8aed-4bbf-90a0-272061ee1579-mediumThreeByTwo210.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/02/realestate/30incentives8/merlin_104933242_cb1449ca-8aed-4bbf-90a0-272061ee1579-mediumThreeByTwo440.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/44ba071b-9b04-5c7f-a0f8-ceb9d8a05b2f",
+"url": "https://www.nytimes.com/2021/05/01/nyregion/andrew-yang-venture-for-america-jobs.html",
+"id": 100000007706645,
+"asset_id": 100000007706645,
+"source": "New York Times",
+"published_date": "2021-05-01",
+"updated": "2021-05-02 00:37:20",
+"section": "New York",
+"subsection": "",
+"nytdsection": "new york",
+"adx_keywords": "Elections, Mayors;Yang, Andrew (1975- );Venture for America Inc;New York City",
+"column": null,
+"byline": "By Brian M. Rosenthal and Katie Glueck",
+"type": "Article",
+"title": "Andrew Yang Promised to Create 100,000 Jobs. He Ended Up With 150.",
+"abstract": "Mr. Yang is running for mayor of New York City as a bold thinker and entrepreneur. But his results have been uneven.",
+"des_facet": [
+"Elections, Mayors"
+],
+"org_facet": [
+"Venture for America Inc"
+],
+"per_facet": [
+"Yang, Andrew (1975- )"
+],
+"geo_facet": [
+"New York City"
+],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "Andrew Yang in 2013, when he was chief executive of Venture for America. A review by The New York Times found that as the nonprofit&rsquo;s leader, he failed to deliver on his bold promises.",
+"copyright": "Gretchen Ertl for The New York Times",
+"approved_for_syndication": 1,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/05/02/nyregion/02YANG-JOBS-print1/00YANG-JOBS2-thumbStandard.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/02/nyregion/02YANG-JOBS-print1/00YANG-JOBS2-mediumThreeByTwo210.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/02/nyregion/02YANG-JOBS-print1/00YANG-JOBS2-mediumThreeByTwo440.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/b749cfc2-e9ff-5efd-9cee-2908c2b5d4e5",
+"url": "https://www.nytimes.com/2021/05/01/us/mike-nearman-oregon-charged-protesters.html",
+"id": 100000007740643,
+"asset_id": 100000007740643,
+"source": "New York Times",
+"published_date": "2021-05-01",
+"updated": "2021-05-01 15:22:31",
+"section": "U.S.",
+"subsection": "",
+"nytdsection": "u.s.",
+"adx_keywords": "Storming of the US Capitol (Jan, 2021);Demonstrations, Protests and Riots;State Legislatures;Brown, Kate (1960- );Trump, Donald J;Oregon",
+"column": null,
+"byline": "By Maria Cramer",
+"type": "Article",
+"title": "Oregon Lawmaker Who Let Protesters Into State Capitol Is Charged in Breach",
+"abstract": "Surveillance footage shows State Representative Mike Nearman opening a door to let protesters into the Capitol, in Salem, last year.",
+"des_facet": [
+"Storming of the US Capitol (Jan, 2021)",
+"Demonstrations, Protests and Riots",
+"State Legislatures"
+],
+"org_facet": [],
+"per_facet": [
+"Brown, Kate (1960- )",
+"Trump, Donald J"
+],
+"geo_facet": [
+"Oregon"
+],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "Pro-Trump and anti-mask demonstrators held a rally outside the State Capitol, in Salem, Ore., as legislators met for an emergency session on Dec. 21.",
+"copyright": "Andrew Selsky/Associated Press",
+"approved_for_syndication": 1,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/05/01/world/01xp-nearman-image1/merlin_182292711_64332c64-8e9f-45b0-b3e4-2451d145ce6f-thumbStandard.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/01/world/01xp-nearman-image1/merlin_182292711_64332c64-8e9f-45b0-b3e4-2451d145ce6f-mediumThreeByTwo210.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/01/world/01xp-nearman-image1/merlin_182292711_64332c64-8e9f-45b0-b3e4-2451d145ce6f-mediumThreeByTwo440.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/dbe7be50-d272-5d5b-a0f5-df08886d1ed7",
+"url": "https://www.nytimes.com/2021/04/30/health/covid-vaccine-hesitancy-white-republican.html",
+"id": 100000007718092,
+"asset_id": 100000007718092,
+"source": "New York Times",
+"published_date": "2021-04-30",
+"updated": "2021-05-01 08:42:18",
+"section": "Health",
+"subsection": "",
+"nytdsection": "health",
+"adx_keywords": "Vaccination and Immunization;Coronavirus (2019-nCoV);Rural Areas;Polls and Public Opinion;Christians and Christianity;Whites;your-feed-healthcare;Republican Party;Appalachian Region;Tennessee",
+"column": null,
+"byline": "By Jan Hoffman and Erin Schaff",
+"type": "Article",
+"title": "Faith, Freedom, Fear: Rural America’s Covid Vaccine Skeptics",
+"abstract": "Resistance is widespread in white, Republican communities like this one in Appalachia. But it’s far more complicated than just a partisan divide.",
+"des_facet": [
+"Vaccination and Immunization",
+"Coronavirus (2019-nCoV)",
+"Rural Areas",
+"Polls and Public Opinion",
+"Christians and Christianity",
+"Whites",
+"your-feed-healthcare"
+],
+"org_facet": [
+"Republican Party"
+],
+"per_facet": [],
+"geo_facet": [
+"Appalachian Region",
+"Tennessee"
+],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "Rev. Guy Richardson leads Sunday worship at Old Fashion Gospel House in Bulls Gap, Tenn. In communities like these — mostly white, evangelical Christian and Republican — resistance to the Covid vaccine is difficult to combat.",
+"copyright": "",
+"approved_for_syndication": 0,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/04/21/science/00VIRUS-VAX-TENN-gospelhouse/merlin_186278148_b4887446-19fb-4d06-b529-7a83bcbb55a3-thumbStandard.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/21/science/00VIRUS-VAX-TENN-gospelhouse/merlin_186278148_b4887446-19fb-4d06-b529-7a83bcbb55a3-mediumThreeByTwo210.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/21/science/00VIRUS-VAX-TENN-gospelhouse/merlin_186278148_b4887446-19fb-4d06-b529-7a83bcbb55a3-mediumThreeByTwo440.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/a1e8b670-cd33-545a-be34-69d493572e7c",
+"url": "https://www.nytimes.com/es/2021/04/29/espanol/opinion/colombia-protestas.html",
+"id": 100000007737607,
+"asset_id": 100000007737607,
+"source": "New York Times",
+"published_date": "2021-04-29",
+"updated": "2021-04-29 20:37:20",
+"section": "en Español",
+"subsection": "Opinión",
+"nytdsection": "en español",
+"adx_keywords": "Coronavirus (2019-nCoV);Duque, Ivan;Colombia;Latin America",
+"column": null,
+"byline": "By Sinar Alvarado",
+"type": "Article",
+"title": "Los colombianos no quieren ser tratados como espectadores. Presidente Duque, salga del estudio",
+"abstract": "El ruido de las cacerolas es el grito de millones de colombianos que necesitan más explicaciones del gobierno.",
+"des_facet": [
+"Coronavirus (2019-nCoV)"
+],
+"org_facet": [],
+"per_facet": [
+"Duque, Ivan"
+],
+"geo_facet": [
+"Colombia",
+"Latin America"
+],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "El presidente de Colombia, Iván Duque, en marzo de 2021",
+"copyright": "Luisa Gonzalez/Reuters",
+"approved_for_syndication": 1,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/04/29/multimedia/29Alvarado-ES/29Alvarado-ES-thumbStandard.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/29/multimedia/29Alvarado-ES/merlin_184975662_0718ea2c-dac4-4d08-996f-43ae03acefd2-mediumThreeByTwo210.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/29/multimedia/29Alvarado-ES/merlin_184975662_0718ea2c-dac4-4d08-996f-43ae03acefd2-mediumThreeByTwo440.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/df778cb5-df42-5b69-8ff9-360192d39736",
+"url": "https://www.nytimes.com/2021/04/30/business/japan-7-eleven.html",
+"id": 100000007726126,
+"asset_id": 100000007726126,
+"source": "New York Times",
+"published_date": "2021-04-30",
+"updated": "2021-05-01 09:04:56",
+"section": "Business",
+"subsection": "",
+"nytdsection": "business",
+"adx_keywords": "Suits and Litigation (Civil);Franchises;Convenience Stores;Matsumoto, Mitoshi;7-Eleven;Osaka (Japan);Japan",
+"column": null,
+"byline": "By Ben Dooley and Hisako Ueno",
+"type": "Article",
+"title": "A Grudge Match in Japan: One Corner, Two 7-Elevens",
+"abstract": "Inside the war between a very powerful company and a very stubborn franchisee, complete with threats, spies and videotape.",
+"des_facet": [
+"Suits and Litigation (Civil)",
+"Franchises",
+"Convenience Stores"
+],
+"org_facet": [
+"7-Eleven"
+],
+"per_facet": [
+"Matsumoto, Mitoshi"
+],
+"geo_facet": [
+"Osaka (Japan)",
+"Japan"
+],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "7-Eleven has built a store in a suburb of Osaka, Japan, while the shop next door remains tied up in court.",
+"copyright": "Hiroko Masuike/The New York Times",
+"approved_for_syndication": 1,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/04/27/business/00japan-7Eleven01/00test-thumbStandard.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/27/business/00japan-7Eleven01/merlin_186995442_1703250d-840c-4b05-b93b-a6cc6f8a93fc-mediumThreeByTwo210.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/27/business/00japan-7Eleven01/merlin_186995442_1703250d-840c-4b05-b93b-a6cc6f8a93fc-mediumThreeByTwo440.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/11fb43c2-a754-5f02-aecf-cb7244acb75d",
+"url": "https://www.nytimes.com/2021/04/19/well/mind/covid-mental-health-languishing.html",
+"id": 100000007694130,
+"asset_id": 100000007694130,
+"source": "New York Times",
+"published_date": "2021-04-19",
+"updated": "2021-04-27 01:13:06",
+"section": "Well",
+"subsection": "Mind",
+"nytdsection": "well",
+"adx_keywords": "Mental Health and Disorders;Anxiety and Stress;Loneliness;Depression (Mental);Grief (Emotion);Psychology and Psychologists;Coronavirus (2019-nCoV);Quarantine (Life and Culture);Content Type: Service",
+"column": null,
+"byline": "By Adam Grant",
+"type": "Article",
+"title": "There’s a Name for the Blah You’re Feeling: It’s Called Languishing",
+"abstract": "The neglected middle child of mental health can dull your motivation and focus — and it may be the dominant emotion of 2021.",
+"des_facet": [
+"Mental Health and Disorders",
+"Anxiety and Stress",
+"Loneliness",
+"Depression (Mental)",
+"Grief (Emotion)",
+"Psychology and Psychologists",
+"Coronavirus (2019-nCoV)",
+"Quarantine (Life and Culture)",
+"Content Type: Service"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Manshen Lo",
+"approved_for_syndication": 1,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/04/16/well/00well-languishing/00well-languishing-thumbStandard-v2.png",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/16/well/00well-languishing/00well-languishing-mediumThreeByTwo210-v2.png",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/16/well/00well-languishing/00well-languishing-mediumThreeByTwo440-v2.png",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/94a74cb5-b1d0-5da0-af31-cef142f1e8b0",
+"url": "https://www.nytimes.com/2021/04/30/technology/basecamp-politics-ban-resignations.html",
+"id": 100000007740123,
+"asset_id": 100000007740123,
+"source": "New York Times",
+"published_date": "2021-04-30",
+"updated": "2021-04-30 19:37:31",
+"section": "Technology",
+"subsection": "",
+"nytdsection": "technology",
+"adx_keywords": "Workplace Environment;Fried, Jason B (1974- );Hansson, David Heinemeier;Basecamp LLC",
+"column": null,
+"byline": "By Sarah Kessler",
+"type": "Article",
+"title": "A third of Basecamp’s workers resign after a ban on talking politics.",
+"abstract": "At least 20 employees have posted publicly that they intend to resign or have already resigned.",
+"des_facet": [
+"Workplace Environment"
+],
+"org_facet": [
+"Basecamp LLC"
+],
+"per_facet": [
+"Fried, Jason B (1974- )",
+"Hansson, David Heinemeier"
+],
+"geo_facet": [],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "&ldquo;Every discussion remotely related to politics, advocacy or society at large quickly spins away from pleasant,&rdquo; Jason Fried, Basecamp&rsquo;s chief executive, wrote in a blog post.",
+"copyright": "Nicholas Hunt/Getty Images",
+"approved_for_syndication": 1,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/04/28/business/27economy-briefing-basecamp-print-copy/27economy-briefing-basecamp-thumbStandard.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/28/business/27economy-briefing-basecamp-print-copy/27economy-briefing-basecamp-mediumThreeByTwo210.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/28/business/27economy-briefing-basecamp-print-copy/27economy-briefing-basecamp-mediumThreeByTwo440.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/c477d61a-6e79-5998-941d-509910a3231b",
+"url": "https://www.nytimes.com/2021/05/01/realestate/renovations-before-a-sale.html",
+"id": 100000007728692,
+"asset_id": 100000007728692,
+"source": "New York Times",
+"published_date": "2021-05-01",
+"updated": "2021-05-01 05:00:13",
+"section": "Real Estate",
+"subsection": "",
+"nytdsection": "real estate",
+"adx_keywords": "Real Estate and Housing (Residential);Restoration and Renovation;Coronavirus Risks and Safety Concerns;Home Repairs and Improvements;Quarantine (Life and Culture);Content Type: Service;Kitchens",
+"column": null,
+"byline": "By Ronda Kaysen",
+"type": "Article",
+"title": "Should You Renovate the Kitchen Before You Sell?",
+"abstract": "One outdated room can stand out and hurt a sale. But before you do any last-minute work, set a budget and make sure you finish what you start.",
+"des_facet": [
+"Real Estate and Housing (Residential)",
+"Restoration and Renovation",
+"Coronavirus Risks and Safety Concerns",
+"Home Repairs and Improvements",
+"Quarantine (Life and Culture)",
+"Content Type: Service",
+"Kitchens"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Nadia Pillon",
+"approved_for_syndication": 1,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/05/02/realestate/01Ask-illo/01Ask-illo-thumbStandard.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/02/realestate/01Ask-illo/01Ask-illo-mediumThreeByTwo210.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/02/realestate/01Ask-illo/01Ask-illo-mediumThreeByTwo440.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/768e8deb-6d08-5f77-b8ae-6ebad28d0a78",
+"url": "https://www.nytimes.com/2021/05/01/us/arnold-schwarzenegger-california.html",
+"id": 100000007728635,
+"asset_id": 100000007728635,
+"source": "New York Times",
+"published_date": "2021-05-01",
+"updated": "2021-05-02 00:40:48",
+"section": "U.S.",
+"subsection": "",
+"nytdsection": "u.s.",
+"adx_keywords": "Content Type: Personal Profile;Governors (US);Schwarzenegger, Arnold;California",
+"column": null,
+"byline": "By Shawn Hubler",
+"type": "Article",
+"title": "Arnold Schwarzenegger Is No Longer the Governor of California. Right?",
+"abstract": "Amid a pandemic and a recall, Mr. Schwarzenegger has been in demand at his Los Angeles mansion, embracing his unlikely role as California’s “elderly statesman.”",
+"des_facet": [
+"Content Type: Personal Profile",
+"Governors (US)"
+],
+"org_facet": [],
+"per_facet": [
+"Schwarzenegger, Arnold"
+],
+"geo_facet": [
+"California"
+],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "Mr. Schwarzenegger with Whiskey, left, and Lulu.",
+"copyright": "Tracy Nguyen for The New York Times",
+"approved_for_syndication": 1,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/05/02/us/02california-arnold-p1/02california-arnold-p1-thumbStandard-v4.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/02/us/02california-arnold-p1/02california-arnold-p1-mediumThreeByTwo210-v4.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/02/us/02california-arnold-p1/02california-arnold-p1-mediumThreeByTwo440-v4.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/22d73692-e7d6-5e7f-8342-f88060a58805",
+"url": "https://www.nytimes.com/2021/04/30/sports/horse-racing/kentucky-derby-odds-picks-predictions.html",
+"id": 100000007720165,
+"asset_id": 100000007720165,
+"source": "New York Times",
+"published_date": "2021-04-30",
+"updated": "2021-05-01 16:31:41",
+"section": "Sports",
+"subsection": "Horse Racing",
+"nytdsection": "sports",
+"adx_keywords": "Horse Racing;Kentucky Derby;Horses;Baffert, Bob;Churchill Downs Inc;Lexington (Ky)",
+"column": null,
+"byline": "By Joe Drape and Melissa Hoppert",
+"type": "Article",
+"title": "Expert Picks: Who Will Win the Kentucky Derby",
+"abstract": "Joe Drape and Melissa Hoppert weigh in on the contenders for the 147th running of the Kentucky Derby.",
+"des_facet": [
+"Horse Racing",
+"Kentucky Derby",
+"Horses"
+],
+"org_facet": [
+"Churchill Downs Inc"
+],
+"per_facet": [
+"Baffert, Bob"
+],
+"geo_facet": [
+"Lexington (Ky)"
+],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "The morning-line favorite, Essential Quality, at Churchill Downs on Thursday.",
+"copyright": "Charlie Riedel/Associated Press",
+"approved_for_syndication": 1,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/04/30/sports/30derby-predictions1/merlin_187070556_f8c262ce-ff68-4f8f-a78d-34164a473dfe-thumbStandard.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/30/sports/30derby-predictions1/merlin_187070556_f8c262ce-ff68-4f8f-a78d-34164a473dfe-mediumThreeByTwo210.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/30/sports/30derby-predictions1/merlin_187070556_f8c262ce-ff68-4f8f-a78d-34164a473dfe-mediumThreeByTwo440.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/1643bc57-7da3-5dd1-becd-263b5dddfe7b",
+"url": "https://www.nytimes.com/2021/05/02/science/spacex-nasa-landing.html",
+"id": 100000007741092,
+"asset_id": 100000007741092,
+"source": "New York Times",
+"published_date": "2021-05-02",
+"updated": "2021-05-02 08:37:01",
+"section": "Science",
+"subsection": "",
+"nytdsection": "science",
+"adx_keywords": "Private Spaceflight;Rocket Science and Propulsion;International Space Station;Space and Astronomy;Space Exploration Technologies Corp;National Aeronautics and Space Administration;Gulf of Mexico;Florida;Panama City (Panama)",
+"column": null,
+"byline": "By Kenneth Chang",
+"type": "Article",
+"title": "SpaceX Makes First Nighttime Splash Down With Astronauts Since 1968",
+"abstract": "Crew-1, which launched to the space station in November, left the space station in the capsule called Resilience.",
+"des_facet": [
+"Private Spaceflight",
+"Rocket Science and Propulsion",
+"International Space Station",
+"Space and Astronomy"
+],
+"org_facet": [
+"Space Exploration Technologies Corp",
+"National Aeronautics and Space Administration"
+],
+"per_facet": [],
+"geo_facet": [
+"Gulf of Mexico",
+"Florida",
+"Panama City (Panama)"
+],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "Support teams work around the SpaceX Crew Dragon Resilience spacecraft shortly after it landed off the coast of Panama City, Fla.",
+"copyright": "Bill Ingalls/NASA, via Associated Press",
+"approved_for_syndication": 1,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/05/02/multimedia/02astronauts1/02astronauts1-thumbStandard.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/02/multimedia/02astronauts1/02astronauts1-mediumThreeByTwo210.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/05/02/multimedia/02astronauts1/02astronauts1-mediumThreeByTwo440.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+},
+{
+"uri": "nyt://article/57f7b2e5-03fa-55da-9127-6cd35d2b015c",
+"url": "https://www.nytimes.com/2021/04/29/nyregion/stuyvestant-black-students.html",
+"id": 100000007736938,
+"asset_id": 100000007736938,
+"source": "New York Times",
+"published_date": "2021-04-29",
+"updated": "2021-04-30 12:18:24",
+"section": "New York",
+"subsection": "",
+"nytdsection": "new york",
+"adx_keywords": "Admissions Standards;Black People;Education (Secondary);Segregation and Desegregation;Hispanic-Americans;Race and Ethnicity;de Blasio, Bill;Stuyvesant High School;Bronx High School of Science;Brooklyn Technical High School;New York City",
+"column": null,
+"byline": "By Eliza Shapiro",
+"type": "Article",
+"title": "Only 8 Black Students Are Admitted to Stuyvesant High School",
+"abstract": "Once again, tiny numbers of Black and Latino students received offers to attend New York City’s elite public high schools.",
+"des_facet": [
+"Admissions Standards",
+"Black People",
+"Education (Secondary)",
+"Segregation and Desegregation",
+"Hispanic-Americans",
+"Race and Ethnicity"
+],
+"org_facet": [
+"Stuyvesant High School",
+"Bronx High School of Science",
+"Brooklyn Technical High School"
+],
+"per_facet": [
+"de Blasio, Bill"
+],
+"geo_facet": [
+"New York City"
+],
+"media": [
+{
+"type": "image",
+"subtype": "photo",
+"caption": "Only eight Black students received offers to Stuyvesant High School, considered one of New York City’s most competitive public schools, this year.",
+"copyright": "Kevin Hagen for The New York Times",
+"approved_for_syndication": 1,
+"media-metadata": [
+{
+"url": "https://static01.nyt.com/images/2021/04/29/us/29nyspecialized-1/29nyspecialized-1-thumbStandard.jpg",
+"format": "Standard Thumbnail",
+"height": 75,
+"width": 75
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/29/us/29nyspecialized-1/29nyspecialized-1-mediumThreeByTwo210.jpg",
+"format": "mediumThreeByTwo210",
+"height": 140,
+"width": 210
+},
+{
+"url": "https://static01.nyt.com/images/2021/04/29/us/29nyspecialized-1/29nyspecialized-1-mediumThreeByTwo440.jpg",
+"format": "mediumThreeByTwo440",
+"height": 293,
+"width": 440
+}
+]
+}
+],
+"eta_id": 0
+}
+]
+}
