@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
@@ -19,22 +20,22 @@
                         <rect key="frame" x="8" y="8" width="447" height="99"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="N0y-t6-mLi">
-                                <rect key="frame" x="12" y="0.0" width="435" height="99"/>
+                                <rect key="frame" x="0.0" y="0.0" width="447" height="99"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="253" text="News" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="G4c-0Z-zcm" userLabel="NewTitle" customClass="BTLabel">
-                                        <rect key="frame" x="8" y="8" width="419" height="23"/>
+                                        <rect key="frame" x="8" y="8" width="431" height="23"/>
                                         <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="19"/>
                                         <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="253" text="Source" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wrr-3h-Hv0" userLabel="NewsByLine">
-                                        <rect key="frame" x="8" y="39" width="427" height="15.5"/>
+                                        <rect key="frame" x="8" y="39" width="439" height="15.5"/>
                                         <fontDescription key="fontDescription" name="HelveticaNeue-Thin" family="Helvetica Neue" pointSize="13"/>
                                         <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Published Date " textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3dK-lK-eoZ" userLabel="PublishedDate">
-                                        <rect key="frame" x="312" y="79" width="115" height="20"/>
+                                        <rect key="frame" x="324" y="79" width="115" height="20"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="20" id="AfX-HC-dZJ"/>
                                             <constraint firstAttribute="width" constant="115" id="Ckp-gM-o5S"/>
@@ -61,7 +62,7 @@
                         <constraints>
                             <constraint firstAttribute="bottom" secondItem="N0y-t6-mLi" secondAttribute="bottom" id="Fap-rf-mPf"/>
                             <constraint firstItem="N0y-t6-mLi" firstAttribute="top" secondItem="Dy0-tc-5Bc" secondAttribute="top" id="X1e-Q1-CXL"/>
-                            <constraint firstItem="N0y-t6-mLi" firstAttribute="leading" secondItem="Dy0-tc-5Bc" secondAttribute="leading" constant="12" id="vLO-qO-Ie1"/>
+                            <constraint firstItem="N0y-t6-mLi" firstAttribute="leading" secondItem="Dy0-tc-5Bc" secondAttribute="leading" id="vLO-qO-Ie1"/>
                             <constraint firstAttribute="trailing" secondItem="N0y-t6-mLi" secondAttribute="trailing" id="vmW-bJ-pBA"/>
                         </constraints>
                         <userDefinedRuntimeAttributes>
